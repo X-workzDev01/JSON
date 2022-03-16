@@ -71,6 +71,13 @@
 	      "description":"7-zip for file archiver for compressing and uncompressing files free and open-source",
 	      "directLink":"https://www.7-zip.org/",
 	      "extranalLink":"https://www.7-zip.org/download.html"
+	     },
+	     {
+	      "name": "Postman",	     
+	      "description":"Postman Version 9.14.0 for Windows 64 bit ",
+	      "directLink":"https://dl.pstmn.io/download/latest/win64",
+	      "extranalLink":"https://www.postman.com/downloads/"
 	     }
+	     
      ]
 }
